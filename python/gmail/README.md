@@ -19,7 +19,5 @@ Once this is done, an email can be easily sent by using the `send()` method that
     emailer.send(['TEST_RECEPIENT_1'], 'MESSAGE', 'SUBJECT')
 
 - Recipeints (required): a list containing all recipients.
-  
 - Message (required): a string type that contains the message to be sent.
-
 - Subject (not required): a string type subject for the email.
